@@ -1,0 +1,7 @@
+{
+  "name": "DAH-U4-RASM-CONSULTA",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
